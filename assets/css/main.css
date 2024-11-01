@@ -1,0 +1,24 @@
+.toplevel_page_DFM_WooCommerce_Dropshippers .woocommerce-dropshippers-settings-form {
+    background: #fff;
+    padding: 20px;
+}
+.toplevel_page_DFM_WooCommerce_Dropshippers .woocommerce-dropshippers-settings-form .form-table tr {
+	border-bottom: 1px solid #ccc;
+}
+.toplevel_page_DFM_WooCommerce_Dropshippers .settings-tabs nav.articnet-nav-tab-wrapper {
+	margin-bottom: 0;
+}
+.toplevel_page_DFM_WooCommerce_Dropshippers .settings-tabs .nav-tab-active {
+	background-color: #fff;
+}
+.toplevel_page_DFM_WooCommerce_Dropshippers .woocommerce-dropshippers-settings-form .form-table th {
+	width: 50%;
+}
+.toplevel_page_DFM_WooCommerce_Dropshippers .woocommerce-dropshippers-settings-form .form-table td {
+	line-height: 2;
+}
+.dfm-dropshippers-notification {
+	padding: 0;
+	margin: 0;
+	width: auto;
+}
